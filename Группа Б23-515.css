@@ -1,0 +1,24 @@
+h1{
+    color: white;background: red;text-align: center; font-family: "Arial", Georgia; margin: 0px 200px 0px 200px;
+}
+
+h2{
+    color: blue;text-align: center; font-family: "Arial", Georgia;
+}
+
+h6{
+    color: gray;text-align: left; font-family: "Arial", Georgia; margin: 0px 200px 0px 200px;
+}
+
+p{
+    color: black;text-align: left; font-family: "Arial", Georgia; margin: 0px 200px 0px 200px;
+}
+
+table, tr, td, th{
+    font-family: "Arial", Georgia;
+    border: 1px solid black; border-collapse: collapse; margin: 0px 200px 0px 200px; padding: 0px 10px 0px 10px; 
+}
+
+.студенты{
+    background-color: rgb(242, 242, 242);
+}
